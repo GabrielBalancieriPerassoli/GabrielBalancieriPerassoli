@@ -1,16 +1,20 @@
-### Hi there 👋
+- 🌱 Estudando C, C#, Python, JavaScript e outras linguagens
+- 📫 Contate-me no email: gabrielbalancieri01@gmail.com 
+##
 
-<!--
-**GabrielBalancieriPerassoli/GabrielBalancieriPerassoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<div>
+  <a href="https://beacons.ai/GabrielBalancieriPerassoli">
+    <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBalancieriPerassoli&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true" />
+    <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBalancieriPerassoli&layout=compact&langs_count=16&theme=tokyonight" />
+    <br>
+    <br>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
