@@ -1,4 +1,4 @@
-- 📚 Estudando C, C#, Python, JavaScript e outras linguagens
+- 📚 Estudando
 - 📫 Contate-me no email: gabrielbalancieri01@gmail.com 
 ##
 
