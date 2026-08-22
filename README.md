@@ -42,14 +42,43 @@
 
 ## Projetos
 
-[![cota-certa](https://github-readme-stats.vercel.app/api/pin/?username=GabrielBalancieriPerassoli&repo=cota-certa&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/GabrielBalancieriPerassoli/cota-certa)
-[![tcc-tecnico](https://github-readme-stats.vercel.app/api/pin/?username=GabrielBalancieriPerassoli&repo=tcc-tecnico&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/GabrielBalancieriPerassoli/tcc-tecnico)
+### [cota-certa](https://github.com/GabrielBalancieriPerassoli/cota-certa)
+
+Dashboard de carteira de investimentos
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF)
+![Tailwind](https://img.shields.io/badge/Tailwind-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+### [tcc-tecnico](https://github.com/GabrielBalancieriPerassoli/tcc-tecnico)
+
+Plataforma de agendamento para clínica odontológica
+
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6)
 
 <br>
 
 ## GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=GabrielBalancieriPerassoli&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&locale=pt-br)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBalancieriPerassoli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10&locale=pt-br)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielBalancieriPerassoli&theme=tokyonight" width="46%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielBalancieriPerassoli&theme=tokyonight" width="46%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielBalancieriPerassoli&theme=tokyonight" width="46%" />
+<img src="https://streak-stats.demolab.com?user=GabrielBalancieriPerassoli&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="46%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielBalancieriPerassoli&theme=tokyonight" width="94%" />
+
+<br>
+
+## Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielBalancieriPerassoli/GabrielBalancieriPerassoli/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielBalancieriPerassoli/GabrielBalancieriPerassoli/output/github-snake.svg" />
+  <img alt="Cobrinha de commits" src="https://raw.githubusercontent.com/GabrielBalancieriPerassoli/GabrielBalancieriPerassoli/output/github-snake.svg" />
+</picture>
 
 </div>
