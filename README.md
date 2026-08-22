@@ -1,100 +1,42 @@
-<div align="center">
+## Gabriel Balancieri Perassoli
 
-# Gabriel Balancieri Perassoli
+**Desenvolvedor Full Stack Júnior** — Maringá, PR
 
-**Informática — Universidade Estadual de Maringá**
-
-*Do ponteiro em C ao componente em React: aprendendo a construir software de verdade.*
-
-[![Email](https://img.shields.io/badge/gabrielbalancieri01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielbalancieri01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielBalancieriPerassoli)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielbalancieri)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielbalancieri01@gmail.com)
 
 ---
 
-## `whoami`
+### Sobre
 
-```ts
-const gabriel = {
-  formacao:   "Informática @ UEM",
-  focoAtual:  ["React", "TypeScript", "Tailwind CSS"],
-  fundamentos:["Estrutura de Dados", "Arquitetura de Computadores", "Banco de Dados"],
-  construindo:"cota-certa — dashboard de carteira de investimentos",
-  gosto:      "entender como a coisa funciona por baixo, não só fazer funcionar",
-} as const
-```
+Trabalho na **B5S Tecnologia**, desenvolvendo e mantendo aplicações web em Progress 4GL, JavaScript, jQuery, Dojo Toolkit e Kendo UI — sistemas legados com regras de negócio consolidadas, com contato direto com o cliente no levantamento de requisitos.
+
+Curso **Engenharia de Software na UEM** (2023–2027). Antes disso, técnico em Desenvolvimento de Sistemas pelo SENAI e Programador de Sistemas pelo IFPR.
+
+**Aprendendo no momento:** React e TypeScript.
 
 ---
 
-## Stack
+### Tecnologias
 
-**Linguagens**
+**Linguagens** &nbsp;·&nbsp; Progress 4GL &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; PHP &nbsp;·&nbsp; SQL &nbsp;·&nbsp; HTML &nbsp;·&nbsp; CSS
 
-[![](https://skillicons.dev/icons?i=ts,js,python,php,cs,c)](https://skillicons.dev)
-[![Racket](https://img.shields.io/badge/Racket-9F1D20?style=flat-square&logo=racket&logoColor=white)](https://racket-lang.org)
+**Front-end** &nbsp;·&nbsp; jQuery &nbsp;·&nbsp; Dojo Toolkit &nbsp;·&nbsp; Kendo UI
 
-**Front-end**
+**Banco de dados** &nbsp;·&nbsp; MySQL
 
-[![](https://skillicons.dev/icons?i=react,tailwind,vite,html,css)](https://skillicons.dev)
+**Ferramentas** &nbsp;·&nbsp; Git &nbsp;·&nbsp; Figma
 
-**Dados & Back-end**
-
-[![](https://skillicons.dev/icons?i=mysql,postgres,nodejs)](https://skillicons.dev)
-
-**Ferramentas**
-
-[![](https://skillicons.dev/icons?i=git,github,vscode,linux,figma)](https://skillicons.dev)
+**Estudando** &nbsp;·&nbsp; React &nbsp;·&nbsp; TypeScript
 
 ---
 
-## Em destaque
+### Projetos
 
-| Projeto | O que é | Feito com |
-|---|---|---|
-| **[cota-certa](https://github.com/GabrielBalancieriPerassoli/cota-certa)** | Dashboard de carteira de investimentos — acompanha FIIs e ações, calcula patrimônio, preço médio e rentabilidade | `React 19` `TypeScript` `Vite` `Tailwind 4` |
-| **[tcc-tecnico](https://github.com/GabrielBalancieriPerassoli/tcc-tecnico)** | Plataforma de agendamento para clínica odontológica — TCC do curso técnico | `JavaScript` |
-| **[trabalho2_ord](https://github.com/GabrielBalancieriPerassoli/trabalho2_ord)** | Manipulação de arquivos com Árvore-B: indexação e busca em disco | `Python` |
-| **[sebo](https://github.com/GabrielBalancieriPerassoli/sebo)** | Sebo online — projeto de Programação de Sistemas Web | `HTML` `PHP` |
-| **[prog_funcional](https://github.com/GabrielBalancieriPerassoli/prog_funcional)** | Trabalhos de Programação Funcional: recursão, listas e ordem superior | `Racket` |
+**[cota-certa](https://github.com/GabrielBalancieriPerassoli/cota-certa)** — dashboard de carteira de investimentos. É onde estou praticando React e TypeScript na prática.
+
+**[tcc-tecnico](https://github.com/GabrielBalancieriPerassoli/tcc-tecnico)** — plataforma de agendamento para clínica odontológica, TCC do curso técnico.
 
 ---
 
-## Da disciplina pro repositório
-
-Cada matéria da faculdade virou código aqui. É o caminho todo, na ordem:
-
-```
-Algoritmos ─────────────► trabalho1_algoritmos · trabalho2_algoritmos · exercicios_algoritmos
-Estrutura de Dados ─────► trabalho_ed · exercicios_ed_p1
-Arq. de Computadores ───► trabalho_arq_computadores  (tradutor IAS)
-Ordenação de Arquivos ──► trabalho1_ord · trabalho2_ord  (Árvore-B)
-Prog. Funcional ────────► prog_funcional  (Racket)
-Banco de Dados II ──────► pokemon  (Jupyter)
-Sistemas Web ───────────► sebo · biblioteca · sistema_professor · gerenciador_tarefas
-Por conta própria ──────► cota-certa
-```
-
----
-
-## Números
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=GabrielBalancieriPerassoli&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&include_all_commits=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBalancieriPerassoli&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br)
-
-</div>
-
----
-
-<div align="center">
-
-### Bora trocar ideia?
-
-Estou sempre atrás de projeto novo pra aprender alguma coisa que ainda não sei.
-Se você tem uma ideia, uma vaga ou só quer discutir código — manda mensagem.
-
-[![Email](https://img.shields.io/badge/Me%20chama%20no%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielbalancieri01@gmail.com)
-
-</div>
+Aberto a conversar sobre projetos e oportunidades — é só chamar no [LinkedIn](https://linkedin.com/in/gabrielbalancieri) ou no [e-mail](mailto:gabrielbalancieri01@gmail.com).
